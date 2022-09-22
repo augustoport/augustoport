@@ -1,4 +1,4 @@
-[![trophy](https://github-profile-trophy.vercel.app/?username=augustoport)](https://github.com/augustoport/github-profile-trophy)
+<!-- [![trophy](https://github-profile-trophy.vercel.app/?username=augustoport)](https://github.com/augustoport/github-profile-trophy) -->
 
 [![augustoport's GitHub stats](https://github-readme-stats.vercel.app/api?username=augustoport)](https://github.com/augustoport/github-readme-stats)
 
